@@ -82,10 +82,6 @@ let loboGomes = {
 
 <br/>  
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobogomes&hide_border=true&layout=compact&theme=dark" align="center" /></div>
-<br />
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/lobogomes" target="_blank">
