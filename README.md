@@ -11,8 +11,8 @@ let loboGomes = {
     bio: "I'm Amanda, a full-stack developer, valorant player and mom of five cats! 👨‍💻",
 
     // Coding
-    favoriteLanguages: [ "Java", "Kotlin", "Typescript", "Javascript", "C#" ],
-    favoriteFrameworks: [ "SprintBoot", "Angular", "Vue.js", "ReactJs", "Node.js"]
+    favoriteLanguages: [ "Java", "Kotlin", "Typescript", "Javascript" ],
+    favoriteFrameworks: [ "Angular", "ReactJs"]
 }
 ```
 
